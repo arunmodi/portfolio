@@ -82,6 +82,10 @@ Cybersecurity expert with over 9 years of experience in offensive security, spec
 - **[iOS Application Pentest – Getting Started](https://medium.com/@modi.arun91/ios-application-pentest-3f3dbb92cce1)**  
   A primer for performing security assessments on iOS apps, covering tools, common pitfalls, and effective techniques to uncover vulnerabilities.
 
+- **[Knowledge Base (GitBook)](https://modi-arun91.gitbook.io/)**  
+  A concise, beginner-friendly knowledge base covering core Penetration testing concepts. Includes notes on common vulnerabilities, tools, payloads, and testing methodology — aimed at helping newcomers grasp the foundations of web security.
+
+
 ---
 
 ## Let's Connect
