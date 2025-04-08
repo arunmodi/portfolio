@@ -68,12 +68,19 @@ Cybersecurity expert with over 9 years of experience in offensive security, spec
 
 ---
 
-## Featured Research & Contributions
+## Featured Research & Write-Ups
 
-### SolarWinds Firewall Security Manager RCE Analysis
-[Link](https://threatprotect.qualys.com/2020/01/30/solarwinds-firewall-security-manager-userlogin-jsp-remote-code-execution-vulnerability-cve-2015-2284-2/)
+- **[SolarWinds Firewall Security Manager RCE Analysis](https://threatprotect.qualys.com/2020/01/30/solarwinds-firewall-security-manager-userlogin-jsp-remote-code-execution-vulnerability-cve-2015-2284-2/)**  
+  Deep analysis and verification of a remote code execution vulnerability in SolarWinds Firewall Security Manager, resulting in advisory reports shared within the security community.
 
-Performed deep analysis and verification of a remote code execution vulnerability affecting SolarWinds Firewall Security Manager, contributing to critical advisory reports circulated within the security community.
+- **[Application Security: Starting From Scratch](https://medium.com/@modi.arun91/application-security-starting-from-scratch-fc1bd4acda0c)**  
+  A foundational guide for beginners stepping into the world of AppSec — covering key concepts, tools, and how to get started with secure coding and testing.
+
+- **[Microsoft Teams Squirrel – Uncontrolled Endpoints & Arbitrary Code Execution](https://medium.com/@modi.arun91/microsoft-teams-squirrel-uncontrolled-endpoints-arbitrary-code-execution-vulnerability-3bae5af5f848)**  
+  Explores a vulnerability in Microsoft Teams’ Squirrel update mechanism that could lead to arbitrary code execution via uncontrolled endpoints.
+
+- **[iOS Application Pentest – Getting Started](https://medium.com/@modi.arun91/ios-application-pentest-3f3dbb92cce1)**  
+  A primer for performing security assessments on iOS apps, covering tools, common pitfalls, and effective techniques to uncover vulnerabilities.
 
 ---
 
