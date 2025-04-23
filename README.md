@@ -2,7 +2,7 @@
 
 #### Cybersecurity Professional | OSCP | OSWA | CEH | CVE Author
 ![CVEs Published](https://img.shields.io/badge/CVE-3%20Published-blueviolet)
----
+
 
 ## Profile
 
