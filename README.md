@@ -1,7 +1,7 @@
 # Arun Modi
 
-#### Cybersecurity Professional | OSCP | OSWA | CEH
-
+#### Cybersecurity Professional | OSCP | OSWA | CEH | CVE Author
+![CVEs Published](https://img.shields.io/badge/CVE-3%20Published-blueviolet)
 ---
 
 ## Profile
@@ -67,14 +67,25 @@ Cybersecurity expert with over 9 years of experience in offensive security, spec
 **Platforms:** Kali Linux, Windows
 
 ---
+## CVE Disclosures
+
+I’ve independently discovered and responsibly disclosed the following vulnerabilities, which have been assigned CVEs:
+
+- **[CVE-2025-25775 – SQL Injection](https://github.com/arunmodi/Vulnerability-Research/tree/main/CVE-2025-25775)**  
+  Identified and exploited a SQL injection vulnerability affecting a public-facing endpoint. The flaw allowed an unauthenticated attacker to execute arbitrary SQL queries and access sensitive data.
+
+- **[CVE-2025-25776 – Stored Cross-Site Scripting (XSS)](https://github.com/arunmodi/Vulnerability-Research/tree/main/CVE-2025-25776)**  
+  Discovered a persistent XSS vulnerability that enabled attackers to inject malicious JavaScript, which was executed in the context of victim users — leading to session theft and privilege abuse.
+
+- **[CVE-2025-25777 – Insecure Direct Object Reference (IDOR)](https://github.com/arunmodi/Vulnerability-Research/tree/main/CVE-2025-25777)**  
+  Reported an IDOR vulnerability that allowed unauthorized access to user data by manipulating object identifiers in the request, bypassing access controls.
+
+---
 
 ## Featured Research & Write-Ups
 
 - **[SolarWinds Firewall Security Manager RCE Analysis](https://threatprotect.qualys.com/2020/01/30/solarwinds-firewall-security-manager-userlogin-jsp-remote-code-execution-vulnerability-cve-2015-2284-2/)**  
   Deep analysis and verification of a remote code execution vulnerability in SolarWinds Firewall Security Manager, resulting in advisory reports shared within the security community.
-
-- **[Application Security: Starting From Scratch](https://medium.com/@modi.arun91/application-security-starting-from-scratch-fc1bd4acda0c)**  
-  A foundational guide for beginners stepping into the world of AppSec — covering key concepts, tools, and how to get started with secure coding and testing.
 
 - **[Microsoft Teams Squirrel – Uncontrolled Endpoints & Arbitrary Code Execution](https://medium.com/@modi.arun91/microsoft-teams-squirrel-uncontrolled-endpoints-arbitrary-code-execution-vulnerability-3bae5af5f848)**  
   Explores a vulnerability in Microsoft Teams’ Squirrel update mechanism that could lead to arbitrary code execution via uncontrolled endpoints.
@@ -82,9 +93,11 @@ Cybersecurity expert with over 9 years of experience in offensive security, spec
 - **[iOS Application Pentest – Getting Started](https://medium.com/@modi.arun91/ios-application-pentest-3f3dbb92cce1)**  
   A primer for performing security assessments on iOS apps, covering tools, common pitfalls, and effective techniques to uncover vulnerabilities.
 
+- **[Application Security: Starting From Scratch](https://medium.com/@modi.arun91/application-security-starting-from-scratch-fc1bd4acda0c)**  
+  A foundational guide for beginners stepping into the world of AppSec — covering key concepts, tools, and how to get started with secure coding and testing.
+
 - **[Knowledge Base (GitBook)](https://modi-arun91.gitbook.io/)**  
   A concise, beginner-friendly knowledge base covering core Penetration testing concepts. Includes notes on common vulnerabilities, tools, payloads, and testing methodology — aimed at helping newcomers grasp the foundations of web security.
-
 
 ---
 
@@ -92,4 +105,3 @@ Cybersecurity expert with over 9 years of experience in offensive security, spec
 
 📧 **modi.arun91@gmail.com**  
 🔗 [LinkedIn](https://linkedin.com/in/arun-modi)
-
